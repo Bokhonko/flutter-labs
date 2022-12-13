@@ -4,7 +4,7 @@ import 'package:lab1/pages/home.dart';
 
 void main() => runApp(MaterialApp(
         theme: ThemeData(
-          primaryColor: Colors.deepOrangeAccent,
+          primarySwatch: Colors.cyan,
         ),
         initialRoute: '/',
         routes: {
